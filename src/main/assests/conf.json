@@ -1,0 +1,32 @@
+{
+  "shapes": [
+    {
+      "name": "rectangle",
+      "default_width": 6,
+      "default_height": 3,
+      "default_color": "green",
+      "symbol": "#"
+    },
+    {
+      "name": "triangle",
+      "default_height": 5,
+      "default_color": "yellow",
+      "symbol": "*"
+    },
+    {
+      "name": "diamond",
+      "default_size": 4,
+      "default_color": "magenta",
+      "symbol": "+"
+    },
+    {
+      "name": "ellipse",
+      "default_a": 5,
+      "default_b": 2,
+      "default_color": "cyan",
+      "symbol": "%"
+    }
+  ],
+  "colors": ["red", "green", "yellow", "blue", "magenta", "cyan"],
+  "symbols": ["#", "*", "+", "%", "@", "O", "X"]
+}
